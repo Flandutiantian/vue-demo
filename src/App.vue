@@ -6,13 +6,11 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
 export default {
   name: 'App',
   data(){
     return{
-      n:0
+      n:0,
     }
   },
   methods:{
